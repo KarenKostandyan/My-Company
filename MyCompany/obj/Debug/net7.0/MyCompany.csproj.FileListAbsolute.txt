@@ -1,0 +1,15 @@
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/obj/Debug/net7.0/MyCompany.csproj.AssemblyReference.cache
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/obj/Debug/net7.0/MyCompany.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/obj/Debug/net7.0/MyCompany.AssemblyInfoInputs.cache
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/obj/Debug/net7.0/MyCompany.AssemblyInfo.cs
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/obj/Debug/net7.0/MyCompany.csproj.CoreCompileInputs.cache
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/bin/Debug/net7.0/MyCompany
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/bin/Debug/net7.0/MyCompany.deps.json
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/bin/Debug/net7.0/MyCompany.runtimeconfig.json
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/bin/Debug/net7.0/MyCompany.dll
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/bin/Debug/net7.0/MyCompany.pdb
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/obj/Debug/net7.0/MyCompany.dll
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/obj/Debug/net7.0/refint/MyCompany.dll
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/obj/Debug/net7.0/MyCompany.pdb
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/obj/Debug/net7.0/MyCompany.genruntimeconfig.cache
+/Users/karenkostandyan/Projects/MyCompany/MyCompany/obj/Debug/net7.0/ref/MyCompany.dll
